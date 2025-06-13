@@ -1,3 +1,6 @@
 # OLED显示模块
-Keil MDK、VSCode;
 包含驱动、基础显示函数;
+
+Keil MDK、VSCode;
+
+更具体函数参考江协科技，本代码只使用基础显示功能；
